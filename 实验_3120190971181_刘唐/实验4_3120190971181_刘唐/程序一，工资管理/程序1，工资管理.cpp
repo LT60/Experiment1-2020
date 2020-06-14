@@ -1,12 +1,6 @@
 #include<iostream>
+#include"person.h"
 using namespace std;
-
-typedef struct person
-{
-	char name[20];
-	unsigned long id;
-	float salary;
-}person;
 
 int main(void)
 {
