@@ -64,5 +64,4 @@ int main(void)
 	ofile.close();
 	cout << "已经完成第三小题：将f2.dat中的数据按从小到大的顺序存放到f2.dat（覆盖原来的数据）" << endl << "请打开项目中的f2.bat查看" << endl;
 	system("pause");
-
 }

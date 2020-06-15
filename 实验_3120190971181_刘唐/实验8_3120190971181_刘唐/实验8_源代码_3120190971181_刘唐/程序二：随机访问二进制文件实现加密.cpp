@@ -1,7 +1,6 @@
 #include<iostream>
 #include<fstream>
 using namespace std;
-//二进制文件无法直接阅读，所以可以用来存密码。
 
 int main()
 {
